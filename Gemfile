@@ -12,7 +12,7 @@ group :development do
 end
 
 group :metrics do
-  gem 'coveralls',      '~> 0.8.7', require: false
-  gem 'simplecov',      '~> 0.14.1'
-  gem 'yardstick',      '~> 0.9.9'
+  gem 'coveralls_reborn', '~> 0.27', require: false
+  gem 'simplecov', '~> 0.22'
+  gem 'yardstick', '~> 0.9.9'
 end

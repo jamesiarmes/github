@@ -4,9 +4,9 @@
 /rdoc
 /doc
 /.yardoc
-/.bundle
 /pkg
 /log
 /features/settings.yml
 /test.log
 /tmp
+vendor
